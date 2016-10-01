@@ -1,0 +1,8 @@
+Package: h2oEnsemble
+Version: 0.1.8
+Depends: R (>= 2.13.0), h2o (>= 3.7.0.1)
+Suggests: SuperLearner, cvAUC, testthat
+License: Apache License (== 2.0)
+MD5sum: f7889be8893d4ed0948fd9d347c7531b
+NeedsCompilation: no
+
